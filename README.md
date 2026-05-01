@@ -1,6 +1,6 @@
 # cis2450project
 
-Crystal Yang & Shishir Varghese
+Crystal Yang & Shishir Vargheese
 
 ## London Airbnb Price Prediction Dashboard
 
